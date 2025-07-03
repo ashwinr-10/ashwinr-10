@@ -67,3 +67,4 @@ Exploring MERN Stack | DSA | Passionate About Clean Code & Scalable Web Apps
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinr-10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
+![My Stats]([https://github-readme-stats.vercel.app/api?username=ashwinr-10&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs?username=ashwinr-10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2%22%20height=%22150%22%20alt=%22languages%20graph))
