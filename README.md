@@ -1,6 +1,6 @@
 # 👋 Hi, I’m J Ashwin Rao  
 ### Aspiring Full-Stack Developer | MCA @ MIT Manipal  
-Exploring MERN Stack | DSA | Passionate About Clean Code & Scalable Web Apps
+Exploring Next.js | DSA | Passionate About Clean Code & Scalable Web Apps
 
 ---
 
@@ -35,7 +35,15 @@ Exploring MERN Stack | DSA | Passionate About Clean Code & Scalable Web Apps
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:40px; margin-right:10px;" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="height:40px; margin-right:10px;" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:40px; margin-right:10px;" alt="VSCode" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="height:40px; margin-right:10px;" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height:40px; margin-right:10px; filter: invert(1);" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:40px; margin-right:10px;" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="height:40px; margin-right:10px;" alt="Tailwind CSS" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" style="height:40px; margin-right:10px; border-radius:8px;" alt="shadcn/ui" />
+
 </div>
+
+
 
 
 
