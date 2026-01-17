@@ -1,5 +1,15 @@
-# 👋 Hi, I’m J Ashwin Rao  
-## Aspiring Full-Stack Developer | MCA @ MIT Manipal  
+#
+<h1 >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ashwin+Rao;Full+Stack+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
+</h1>
+
+
+## MERN Stack | Exploring Next.js | MCA Student @ MIT Manipal | DSA  
+
+
+<div align="center">
+  <img height="500" width="500" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
+</div>
 
 ---
 
@@ -13,7 +23,7 @@
 
 ---
 
-# Languages & Tools
+# Tools & Technologies
 
 ###
 
@@ -40,29 +50,41 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="height:40px; margin-right:10px;" alt="Tailwind CSS" />
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" style="height:40px; margin-right:10px; border-radius:8px;" alt="shadcn/ui" /> -->
 
-</div>
-<p align="center">
+<!-- </div> -->
+ <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,mysql,tailwind,redux,js,react,nextjs,nodejs,prisma,postgres,mongodb,express,redis,docker,c,cpp,java,linux,vscode,vim,postman&theme=light&perline=12" />
   </a>
+</p> 
+
+
+<!-- <div align="center"> -->
+  
+<!-- ### Frontend 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,redux&theme=light" />
 </p>
 
+### Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,prisma&theme=light" />
+</p>
 
-
+### Tools & Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,c,cpp,java,js,vscode,vim,postman&theme=light" />
+</p> 
+-->
 
 ---
+
 # Connect with Me
 
+
 <p align="center">
-  <a href="https://github.com/ashwinr-10">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" />
-  </a>
-  <a href="https://linkedin.com/in/ashwin-rao-1384b5135/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
-  </a>
-  <a href="mailto:jashwinrao31@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-  </a>
+  <a href="https://github.com/ashwinr-10"><img src="https://skillicons.dev/icons?i=github&theme=light" /></a>
+  <a href="https://www.linkedin.com/in/ashwin-rao-1384b5135/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" /></a>
+  <a href="mailto:jashwinrao31@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a>
 </p>
 
 ---
@@ -72,3 +94,5 @@
  <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ashwinr-10&hide_border=false" alt="Streak_Stats">
 </p>
+
+---
