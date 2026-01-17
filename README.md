@@ -1,24 +1,23 @@
 # 👋 Hi, I’m J Ashwin Rao  
-### Aspiring Full-Stack Developer | MCA @ MIT Manipal  
-Exploring Next.js | DSA | Passionate About Clean Code & Scalable Web Apps
+## Aspiring Full-Stack Developer | MCA @ MIT Manipal  
 
 ---
 
-## 🚀 About Me
+# About Me
 
-- 🎓 MCA student at **MIT Manipal**
-- 🌱 Currently learning and building with the **MERN Stack (MongoDB, Express, React, Node.js)**
-- 🧠 Strengthening my foundation in **Data Structures & Algorithms**
-- 💡 I enjoy creating responsive, user-friendly interfaces and writing clean, modular code
-- 🔁 I believe in **learning by building** and improving with every project
+-  MCA student at **MIT Manipal**
+-  Currently learning and building with the **MERN Stack**
+-  Strengthening my foundation in **Data Structures & Algorithms**
+-  I enjoy creating responsive, user-friendly interfaces and writing clean, modular code
+-  I believe in **learning by building** and improving with every project
 
 ---
 
-## 🛠 Languages & Tools
+# Languages & Tools
 
 ###
 
-<div align="left" style="display: flex; flex-wrap: wrap; align-items: center;">
+<!-- <div align="left" style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:40px; margin-right:10px;" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:40px; margin-right:10px;" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:40px; margin-right:10px;" alt="CSS3" />
@@ -39,25 +38,37 @@ Exploring Next.js | DSA | Passionate About Clean Code & Scalable Web Apps
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height:40px; margin-right:10px; filter: invert(1);" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:40px; margin-right:10px;" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="height:40px; margin-right:10px;" alt="Tailwind CSS" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" style="height:40px; margin-right:10px; border-radius:8px;" alt="shadcn/ui" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" style="height:40px; margin-right:10px; border-radius:8px;" alt="shadcn/ui" /> -->
 
 </div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,mysql,tailwind,redux,js,react,nextjs,nodejs,prisma,postgres,mongodb,express,redis,docker,c,cpp,java,linux,vscode,vim,postman&theme=light&perline=12" />
+  </a>
+</p>
 
 
 
 
 ---
+# Connect with Me
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-rao-1384b5135/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashwinr-10)
+<p align="center">
+  <a href="https://github.com/ashwinr-10">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" />
+  </a>
+  <a href="https://linkedin.com/in/ashwin-rao-1384b5135/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  </a>
+  <a href="mailto:jashwinrao31@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+  </a>
+</p>
 
 ---
 
-## 📈 My GitHub Stats
+# My GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinr-10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-
+ <p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ashwinr-10&hide_border=false" alt="Streak_Stats">
+</p>
